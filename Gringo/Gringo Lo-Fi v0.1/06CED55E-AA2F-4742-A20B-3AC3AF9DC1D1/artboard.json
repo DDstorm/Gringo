@@ -1,0 +1,152 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "06CED55E-AA2F-4742-A20B-3AC3AF9DC1D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 224,
+    "width": 184,
+    "x": -124,
+    "y": 1879
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "63C2FF10-F909-4739-812D-F904CB584479"
+    },
+    {
+      "class": "text",
+      "id": "28C5435B-6503-48EB-826E-D51FA1FFCBA4"
+    },
+    {
+      "class": "text",
+      "id": "760A3227-1133-442F-8BB3-A5D84DB35364"
+    },
+    {
+      "class": "text",
+      "id": "4208005D-876F-4FC3-A43C-9CFD62929C42"
+    },
+    {
+      "class": "text",
+      "id": "2B72F659-E796-4FF0-969B-69E03E9E599F"
+    },
+    {
+      "class": "oval",
+      "id": "31082E72-F1CB-4C3D-B54D-D477CE231B0E"
+    },
+    {
+      "class": "text",
+      "id": "E16D70E5-3AB7-44DB-B110-E0ECB3B9A35E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "87174BBB-BE1D-4ECC-B288-E602DCD26F2A"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "SfidaWatch/3 Copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 224,
+    "name": "Apple Watch 44mm",
+    "offersLandscapeVariant": 0,
+    "width": 184
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "CF97B3A0-7D06-42F5-BFDE-2EB830CE9C9A",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

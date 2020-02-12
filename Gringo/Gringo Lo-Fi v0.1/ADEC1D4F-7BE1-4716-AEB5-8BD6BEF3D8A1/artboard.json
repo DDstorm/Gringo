@@ -1,0 +1,160 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ADEC1D4F-7BE1-4716-AEB5-8BD6BEF3D8A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 224,
+    "width": 184,
+    "x": -538,
+    "y": 226
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5E66D8F2-9E5C-4043-9B3A-0A59BF9A826E"
+    },
+    {
+      "class": "rectangle",
+      "id": "5914B9D8-FD81-45C4-B102-6D353CF6F7FA"
+    },
+    {
+      "class": "rectangle",
+      "id": "0B3C3570-E447-40D0-843F-B0760EA78C46"
+    },
+    {
+      "class": "rectangle",
+      "id": "36E4CC61-17E5-4666-8427-DDC98DA3DAAE"
+    },
+    {
+      "class": "rectangle",
+      "id": "6D0A1C17-CCB2-4EB2-91EF-AD86A0F35F03"
+    },
+    {
+      "class": "text",
+      "id": "C259AB3B-BE3E-4C82-82B7-C4370DC4D007"
+    },
+    {
+      "class": "text",
+      "id": "C34E5632-1748-40B9-9ACD-9B3E942C8457"
+    },
+    {
+      "class": "text",
+      "id": "665190C4-0F6E-449E-90B9-AD806A3680FB"
+    },
+    {
+      "class": "text",
+      "id": "DE71CCF9-91A2-45B9-8EE9-035CDF4164E7"
+    },
+    {
+      "class": "text",
+      "id": "2A2C519D-A4EB-4CBF-AD0D-4777F345D2B7"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "sfidaWatch/2",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 224,
+    "name": "Apple Watch 44mm",
+    "offersLandscapeVariant": 0,
+    "width": 184
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "F011B76A-380F-46C8-8187-E2335315104A",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
